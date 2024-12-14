@@ -1,0 +1,1 @@
+# Hangman-privacy-policy
